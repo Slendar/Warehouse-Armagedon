@@ -5,8 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"G:/Unreal Projects/WarehouseArmagedon/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"G:/Unreal Projects/WarehouseArmagedon/Content/StarterContent/Maps/Minimal_Default.umap"
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Maps/Minimal_Default.umap",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Maps/StarterMap.umap",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/Scenes/Main.umap",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/IndustryPropsPack6/Maps/Overview.umap",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/IndustryPropsPack6/Maps/Showcase.umap",
+				"F:/Unreal Projects/Warehouse-Armagedon/WarehouseArmagedon/Content/BP_Prefabs/BP_Projectile.uasset"
 			]
 		}
 	]
